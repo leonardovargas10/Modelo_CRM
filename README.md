@@ -19,7 +19,7 @@
 
 1. [Contexto de Negócio](#1-contexto-de-negócio)  
 2. [Objetivos e Problemas](#2-objetivos-e-problemas)  
-3. [Stack Tecnológica](#3-stack-tecnológica)  
+3. [Fundamentação Teórica](#3-stack-tecnológica)  
 4. [Fontes de Dados](#4-fontes-de-dados)  
 5. [Arquitetura da Solução](#5-arquitetura-da-solução)  
 6. [Definição da Target](#6-definição-da-target)  
