@@ -485,18 +485,4 @@ Os clusters foram validados por análise de:
 
 ---
 
-## Fundamentação Teórica
-
-- Python · PySpark (ambiente de suporte)
-- Fundamentos de Matemática e Estatística (Lei dos Grandes Números, WOE, Percentis, Correlação de Spearman)
-- Técnicas de Análise de Dados (EDA, Bootstrapping, Análise de Distribuição)
-- Técnicas de Machine Learning (Regressão Logística, Random Forest, XGBoost, KMeans, PCA, SHAP, BayesSearchCV)
-- Aplicação em Áreas de Negócios (Churn Management, Função de Custo, Otimização de Ação Proativa)
-
----
-
-<p align="center">
-  <i>Documentação gerada a partir do notebook <strong>Case_DataMasters_Leonardo_Vargas.ipynb</strong></i>
-</p>
-
 
