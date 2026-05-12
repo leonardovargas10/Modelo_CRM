@@ -1,4 +1,6 @@
-﻿﻿# Modelo de Previsão de Churn — Streaming de Música por Assinatura
+﻿﻿---
+
+## Modelo de Previsão de Churn — Streaming de Música por Assinatura
 
 <p align="center">
   <img src = './img.jpeg' width = '50%'>
