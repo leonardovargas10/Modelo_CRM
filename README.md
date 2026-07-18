@@ -6,7 +6,7 @@
   <img src = './img.jpeg' width = '50%'>
 </p>
 
-> **Autor:** Leonardo Aderaldo Vargas · T789785  
+> **Autor:** Leonardo Aderaldo Vargas   
 > **Competição:** Case Data Master 2024  
 > **Fonte dos Dados:** [Kaggle — Case Data Master 2024](https://www.kaggle.com/datasets/gcenachi/case-data-master-2024)  
 > **Status:**
